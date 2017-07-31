@@ -6,5 +6,12 @@ README
 
 Nothing special here, only intended for teaching purposes.
 
-We created a 'hello-world' branch where one of our
-provider implements an amazing 'hello world' program.
+Features:
+
+* amazing 'hello world' program
+
+ChangeLog:
+
+2017-07-31  Max Mustermann <max.mustermann@muster.org>
+
+* hello-world.py: inital implemented & tested
